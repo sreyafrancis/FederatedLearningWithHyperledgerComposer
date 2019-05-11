@@ -1,0 +1,6 @@
+Device_id,Device_delta_path,Model_version,dataCost
+70056,clients/device70056_model_v0.npy,0,5500
+72686,clients/device72686_model_v0.npy,0,5500
+35536,clients/device35536_model_v0.npy,0,5500
+42404,clients/device42404_model_v0.npy,0,55000
+
